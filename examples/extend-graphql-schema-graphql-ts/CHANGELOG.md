@@ -1,5 +1,14 @@
 # @keystone-6/example-extend-graphql-schema-graphql-ts
 
+## 0.0.2
+
+### Patch Changes
+
+- [#7463](https://github.com/keystonejs/keystone/pull/7463) [`96119c716`](https://github.com/keystonejs/keystone/commit/96119c716e97743f14f032578f1185fb3ac81d33) Thanks [@MurzNN](https://github.com/MurzNN)! - Added sandbox configs to allow launching sandboxes on codesandbox.io service
+
+- Updated dependencies [[`aced61816`](https://github.com/keystonejs/keystone/commit/aced6181646bd6fc94977ea497801e6d3839f9c0), [`3bb1a5343`](https://github.com/keystonejs/keystone/commit/3bb1a53434b86e8a6294cff01a8699c36dd5df5a), [`b7a21bbb0`](https://github.com/keystonejs/keystone/commit/b7a21bbb0af131b0fe1db4139ab179b6c83fb4b7), [`bfb6c844f`](https://github.com/keystonejs/keystone/commit/bfb6c844fcab390813ed71a889f8e815db93e0b9), [`032e2eb24`](https://github.com/keystonejs/keystone/commit/032e2eb24f67544949958def72cf5ac75c5972bb)]:
+  - @keystone-6/core@1.1.1
+
 ## 0.0.1
 
 ### Patch Changes

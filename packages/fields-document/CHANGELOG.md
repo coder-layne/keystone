@@ -1,5 +1,14 @@
 # @keystone-6/fields-document
 
+## 2.0.1
+
+### Patch Changes
+
+- [#7464](https://github.com/keystonejs/keystone/pull/7464) [`117621594`](https://github.com/keystonejs/keystone/commit/117621594d46929bd8e7b5103fa1c4efee1bb39d) Thanks [@Achi06](https://github.com/Achi06)! - Fixed z-index issue for toolbar of the document editor
+
+- Updated dependencies [[`aced61816`](https://github.com/keystonejs/keystone/commit/aced6181646bd6fc94977ea497801e6d3839f9c0), [`3bb1a5343`](https://github.com/keystonejs/keystone/commit/3bb1a53434b86e8a6294cff01a8699c36dd5df5a), [`b7a21bbb0`](https://github.com/keystonejs/keystone/commit/b7a21bbb0af131b0fe1db4139ab179b6c83fb4b7), [`bfb6c844f`](https://github.com/keystonejs/keystone/commit/bfb6c844fcab390813ed71a889f8e815db93e0b9), [`032e2eb24`](https://github.com/keystonejs/keystone/commit/032e2eb24f67544949958def72cf5ac75c5972bb)]:
+  - @keystone-6/core@1.1.1
+
 ## 2.0.0
 
 ### Major Changes

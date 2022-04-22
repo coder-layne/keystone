@@ -1,5 +1,19 @@
 # @keystone-6/core
 
+## 1.1.1
+
+### Patch Changes
+
+- [#7417](https://github.com/keystonejs/keystone/pull/7417) [`aced61816`](https://github.com/keystonejs/keystone/commit/aced6181646bd6fc94977ea497801e6d3839f9c0) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Fixed decimal `validation.min` not being respected and `validation.max` being used as the min if provided
+
+* [#7453](https://github.com/keystonejs/keystone/pull/7453) [`3bb1a5343`](https://github.com/keystonejs/keystone/commit/3bb1a53434b86e8a6294cff01a8699c36dd5df5a) Thanks [@dcousens](https://github.com/dcousens)! - Fixed Prisma schema mismatch warning accidentally showing a warning that there is a mismatch in the GraphQL schema
+
+- [#7408](https://github.com/keystonejs/keystone/pull/7408) [`b7a21bbb0`](https://github.com/keystonejs/keystone/commit/b7a21bbb0af131b0fe1db4139ab179b6c83fb4b7) Thanks [@renovate](https://github.com/apps/renovate)! - Updated `@preconstruct/next` to v4
+
+* [#7121](https://github.com/keystonejs/keystone/pull/7121) [`bfb6c844f`](https://github.com/keystonejs/keystone/commit/bfb6c844fcab390813ed71a889f8e815db93e0b9) Thanks [@moselhy](https://github.com/moselhy)! - Fixed React key warning when showing GraphQL errors
+
+- [#7456](https://github.com/keystonejs/keystone/pull/7456) [`032e2eb24`](https://github.com/keystonejs/keystone/commit/032e2eb24f67544949958def72cf5ac75c5972bb) Thanks [@Achi06](https://github.com/Achi06)! - Fixed Reset to default button bug.
+
 ## 1.1.0
 
 ### Minor Changes
